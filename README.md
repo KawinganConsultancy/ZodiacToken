@@ -1,15 +1,16 @@
 # Zodiac Token
 ## One in Ten chance to x10 your Bet Instantly!
 
-[Get Tokens on PancakeSwap!](http://example.com/) &amp; [Make a Bet!](http://example.com/)
+[Get Tokens on PancakeSwap!](https://pancakeswap.finance) &amp; [Make a Bet!](https://kawinganconsultancy.github.io/ZodiacToken)
 
 ---
 
 ### How It Works
 
-1. Excahnge your $BNB to $ZTOKEN via PancakeSwap.
+1. Exchange your $BNB to $ZTOKEN via PancakeSwap.
 2. Make a bet on one of the Zodiac Roulettes. There are twelve roulettes, ranging from 3zt to 12,000zt bets. One hundred percent of all bets are added to the roulette's prize pool.
 3. When the 10th person makes a bet, the smart contract automatically chooses one of the wallets to win all tokens accumulated in the prize pool.
+4. Cash out your $ZTOKEN winnings via PancakeSwap! 🤑
 
 ### Tokenomics
 
