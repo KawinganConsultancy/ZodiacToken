@@ -13,11 +13,13 @@
 
 ### Tokenomics
 
-The supply is 1,000,000 ZTOKENs. Zodiac Tokens has a 6% Transaction Fee:
+The supply is 1,000,000 ZTOKENs. Zodiac Tokens has a 6% Transfer Fee:
 
 - 2% goes to the Dev Team (Kawingan Consultancy)
-- 2% is redistributed among all holders
+- 2% is redistributed among all $ZTOKEN holders
 - 2% is burned to further reduce supply
+
+Note that betting does not have any fees; only transfers.
 
 ### Frequently Asked Questions
 
